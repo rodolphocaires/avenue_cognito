@@ -20,12 +20,12 @@ class _MyAppState extends State<MyApp> {
   }
 
   void getUserContextData() async {
-    var userContextData = await Cognito.getUserContextData(
-      username: "rodolpho@live.de",
-      userPoolId: "us-east-1_LgQsuBmf7",
-      clientId: "1jpsif80rrmn4n1cno5dqomc17",
+    var encodedData = await Cognito.getUserContextData(
+      username: "username",
+      userPoolId: "userPoolId",
+      clientId: "clientId",
     );
-    print(userContextData);
+    print(encodedData);
   }
 
   @override

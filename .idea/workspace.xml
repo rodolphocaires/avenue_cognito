@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="322eae6c-fe23-4b20-be46-ac1609e6fea4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_API_29" />
+  <component name="ProjectId" id="1fNaUC7iXbgrcTQ0l7jZiIOkL7N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="322eae6c-fe23-4b20-be46-ac1609e6fea4" name="Default Changelist" comment="" />
+      <created>1596061019609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596061019609</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1596199730297">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1596122644042" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1596199730297" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1596199730296">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1596122644041" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1596199730296" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1596199730296">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1596122644041" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1596199730296" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1596199730297">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1596122644042" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1596199730297" />
+    <state x="385" y="151" width="670" height="676" key="search.everywhere.popup" timestamp="1596121209709">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="385" y="151" width="670" height="676" key="search.everywhere.popup/0.23.1440.804@0.23.1440.804" timestamp="1596121209709" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/android/src/main/kotlin/us/avenue/cognito/CognitoPlugin.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/example/lib/main.dart</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
